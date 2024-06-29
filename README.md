@@ -36,4 +36,4 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 
 ## gitlab
 
-- [TradingApp](https://gitlab.com/techrefic/nft-ticket-app)
+- [NFT Ticketing](https://gitlab.com/techrefic/nft-ticket-app)
