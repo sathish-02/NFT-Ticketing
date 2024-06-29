@@ -38,9 +38,9 @@ A comprehensive trading application that allows users to buy, sell, and manage t
 
 <div>
 <img width="959" alt="signup" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/984e7f02-2fd2-48b8-b8ac-f4ebafd87a10">
-<img width="953" alt="login" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/1c4a5ea9-fdaf-498a-b5e9-a5a665dc6bab">
-<img width="682" alt="dashboard" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/dec37cd1-f515-4cbb-8077-5c394db396f4">
-<img width="343" alt="homepagemain" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/92154a32-e8a0-4f6a-bebf-4a15096f83ca">
+<img width="959" alt="login" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/1c4a5ea9-fdaf-498a-b5e9-a5a665dc6bab">
+<img width="959" alt="dashboard" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/dec37cd1-f515-4cbb-8077-5c394db396f4">
+<img width="959" alt="homepagemain" src="https://github.com/sathish-02/NFT-Ticketing/assets/95916859/92154a32-e8a0-4f6a-bebf-4a15096f83ca">
 
 </div>
 
